@@ -1,0 +1,25 @@
+
+My rationale for lack of the same stems from the fact as a senior level manager my focus has been more on the day-to-day business and not focused on writing code or building any specific environments to support.  I do not have any objections of learning or setting up these environemnts if needed however, I have not needed to be in this position for quite sometime.
+
+I am comfortable working in any environment necessary and over my career have working in Unix and Windows environemnts and also use a Apple platform for home use.
+
+I hope this helps to answer the 'b' portion of the question.
+
+Thank you,
+bob
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Experienced developers, particularly those working in a Unix environment, tend to prefer
+tools which afford a measure of customization. The standard Unix approach of dotfiles to
+customize editors, shells, IRC clients, and the like to the developers liking is something
+we're interested in.
+
+In this directory, please include (at your option) either:
+
+  a) A sampling of dotfiles or other configuration from your working environment.
+
+  b) A rationale for your lack of same (complete with some description of your
+     preferred working environment).
